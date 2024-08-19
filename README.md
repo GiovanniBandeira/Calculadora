@@ -4,4 +4,4 @@
 
 Nele pratiquei a construção do HTML, o design do CSS e aprendi o básico de como mexer em JavaScript.
 
-<link scr="https://calculadora-legal.netlify.app/">
+<a href="https://calculadora-legal.netlify.app/">
